@@ -35,7 +35,7 @@ public:
     }
   }
 
-  void quickSort(int arr[]) {
+  void quickSort(int arr[], int n) {
     
   }
 };
